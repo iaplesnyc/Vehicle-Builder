@@ -32,7 +32,7 @@ To set up the Vehicle Builder CLI:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/iaplesnyc/08Tsoop-VB.git
+    git clone https://github.com/iaplesnyc/Vehicle-Builder.git
     ```
 
 2. **Install dependencies**:  
@@ -67,10 +67,5 @@ Here are the available actions you can perform in the application:
 
 ---
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
----
-
 ## Demo
-[Insert link to demo or demo video here]
+[https://drive.google.com/file/d/1DFw8kN3cYrMt3BOHC2V9fsdRbtFJYQ5_/view]
